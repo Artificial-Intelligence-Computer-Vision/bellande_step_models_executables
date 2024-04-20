@@ -3,18 +3,15 @@
 **Temporarily Disabled**
 
 ### Research Organization for Open-source/Semi-open-source API
-- The API documentation for the Bellande Step can be found on [Bellande Robotics & Sensors Research Innovation Center](https://robotics-sensors.github.io), a platform dedicated to open-source and semi-open-source APIs.
+- The API documentation for the Bellande Step Models can be found on [Bellande Robotics & Sensors Research Innovation Center](https://robotics-sensors.github.io), a platform dedicated to open-source and semi-open-source APIs.
 
 ### Model Downloads
-- For downloading the Bellande Step Model, please visit [Bellande Artificial Intelligence & Computer Vision Research Innovation Center Website](https://artificial-intelligence-computer-vision.github.io)
+- For downloading the Bellande Step Models, please visit [Bellande Artificial Intelligence & Computer Vision Research Innovation Center Website](https://artificial-intelligence-computer-vision.github.io)
 
-### API Documentation
-- **2D Space**: Users can download the 2D model from [Hugging Face - Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://huggingface.co/Artificial-Intelligence-Computer-Vision)
-- **3D Space**: Downloadable resources related to the 3D space dimension can be accessed from [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
-- **4D Space**: Resources pertaining to the 4D space dimension can also be found on [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
-- **5D Space**: Similarly, resources for the 5D space dimension are available on [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
-- **6D Space**: Resources for the 6D space dimension can be found on [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
-- **7D Space**: Access resources related to the 7D space dimension from [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
-- **8D Space**: Resources for the 8D space dimension can be found on [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
-- **9D Space**: Resources for the 9D space dimension can be found on [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
-- **10D Space**: Resources for the 10D space dimension can be found on [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
+### Models Information
+#### Open-Source Models to Download
+- **2D Space**: Users can download the 2D model from [Hugging Face - Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://huggingface.co/Artificial-Intelligence-Computer-Vision) with precision of 1 decimal.
+
+
+#### Close-Source Models to Download, visit research organization website to see how to obtain a Close-Source Model
+- **2D Space - 10D Space**: Downloadable resources related to the different dimension can be accessed from [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io) with precision of 10 decimal.
