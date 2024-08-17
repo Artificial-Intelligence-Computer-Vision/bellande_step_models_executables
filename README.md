@@ -1,7 +1,4 @@
-# 📦 Bellande Step Model
-## BS(Bellande Step) Models
-
-**Temporarily Disabled**
+# 📦 Bellande Step {BS} Models & Executables
 
 ### Research Organization for Open-source/Semi-open-source API
 - The API documentation for the Bellande Step Models can be found on [Bellande Robotics & Sensors Research Innovation Center](https://robotics-sensors.github.io), a platform dedicated to open-source and semi-open-source APIs.
