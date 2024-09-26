@@ -1,6 +1,6 @@
 # 📦 Bellande Step Models & Executables
 
-# Demo of Bellande Step
+# Demo of Bellande Step Executable
 
 ![Demo GIF](executable/bellande_step.gif)
 
