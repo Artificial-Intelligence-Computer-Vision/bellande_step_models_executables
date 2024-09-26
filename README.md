@@ -1,5 +1,9 @@
 # 📦 Bellande Step Models & Executables
 
+# Demo of Bellande Step
+
+![Demo GIF](executable/bellande_step.gif)
+
 ## 🧙 Organization Website
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://robotics-sensors.github.io)
 
