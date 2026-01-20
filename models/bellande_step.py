@@ -10,7 +10,6 @@ class LocalPredictionModel:
         self.num_actions = 3
 
         # Initialize mock model weights for demonstration
-        # In production, you would load actual model weights
         self.model_weights = self._initialize_mock_weights()
 
     def _initialize_mock_weights(self):
