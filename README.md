@@ -2,7 +2,6 @@
 
 # Demo of Bellande Step Executable
 
-![Demo GIF](executable/bellande_step.gif)
 
 ![Demo GIF](model/step_function.gif)
 
