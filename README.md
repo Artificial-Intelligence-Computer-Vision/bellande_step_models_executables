@@ -2,8 +2,9 @@
 
 # Demo of Bellande Step Executable
 
+![Demo GIF](executable/bellande_step.gif)
 
-![Demo GIF](model/step_function.gif)
+![Demo GIF](models/step_function.gif)
 
 ## 🧙 Organization Website
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://robotics-sensors.github.io)
